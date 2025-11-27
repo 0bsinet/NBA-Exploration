@@ -1,2 +1,2 @@
 # NBA-Exploration
-An analysis of statical relationships within the NBA. 
+An analysis of statistical relationships within the NBA. 
