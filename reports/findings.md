@@ -1,6 +1,7 @@
 ### Graph 1 - Average Points by Season (1996 - 2022)
 In the line graph, there is a upward trend in points as we get closer to the present season. This can be explained by certain 
 factors in the way the game is played such as increased emphasis on taking three-pointers and an increased pace of playing. 
+With the trend of the graph, it is very likely that average points will increase in future seasons relative to now. 
 
 ### Graph 2 - Height vs Points
 In the bar graph, each height is cateogrized by 20-percentile intervals 
